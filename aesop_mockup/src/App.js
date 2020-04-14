@@ -12,7 +12,21 @@ class App extends React.Component {
   render() {
     return (
       <div>
+        <h4> An odyssey of gifts, for generous and inspired giving</h4>
+        <p>
+          <ul>
+            <li> Seasonal Gift Kits </li>
+            <li> Aesop favourites  </li>
+            <li> Small gestures </li>
+            <li> Fragran formulations </li>
+            <li> Treats for self </li>
+            <li> All gifts </li>
+          </ul>
+        </p>
 
+        <h4> For hands and body </h4>
+          <p> Ensure impecable hygiene with our range of mild yet efficacious formulations </p>
+          <button> See all Body </button>
       </div>
     );
   }
