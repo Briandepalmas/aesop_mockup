@@ -14,8 +14,7 @@ button{
 
 }
 
-#mainfloatImg{
-  float: right;
+.mainfloatImg{
   height: 1in;
   width: 4.5in;
 }
