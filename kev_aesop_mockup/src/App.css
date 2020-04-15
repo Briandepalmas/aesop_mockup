@@ -1,0 +1,27 @@
+body{
+  margin-top: 1in;
+  background-color: bisque;
+  font-family: 'Playfair Display', serif;
+  /* font-family: 'Abhaya Libre', sans-serif; */
+}
+
+button{
+  background-color: rgba(255, 228, 196, 0.461);
+  border-color: bisque;
+  color: rgba(0, 0, 0, 0.836);
+  font-size: small;
+  height: .5in;
+}
+
+#handandbod{
+  margin-top: 2in;
+}
+
+
+
+
+.mainfloatImg{
+  float: right;
+  height: 4in;
+  width: 5in;
+}
