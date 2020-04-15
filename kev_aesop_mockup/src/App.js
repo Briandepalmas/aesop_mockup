@@ -12,7 +12,7 @@ class App extends React.Component {
   }
   render() {
     return (
-      <div>
+      <div id="leftpage" >
         <h4> An odyssey of gifts, for generous and inspired giving</h4>
           <img src={KevsAesopsGift} />
             <p>
