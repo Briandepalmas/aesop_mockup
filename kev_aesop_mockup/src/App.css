@@ -1,5 +1,8 @@
 body{
+  margin-top: 1in;
   background-color: bisque;
+  font-family: 'Playfair Display', serif;
+  /* font-family: 'Abhaya Libre', sans-serif; */
 }
 
 button{
@@ -10,12 +13,15 @@ button{
   height: .5in;
 }
 
-.leftpage{
-
+#handandbod{
+  margin-top: 2in;
 }
+
+
+
 
 .mainfloatImg{
   float: right;
-  height: 3in;
-  width: 4.5in;
+  height: 4in;
+  width: 5in;
 }

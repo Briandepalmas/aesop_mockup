@@ -14,22 +14,28 @@ class App extends React.Component {
     return (
       <div id="leftpage" >
         <h4> An odyssey of gifts, for generous and inspired giving</h4>
-          <img src={KevsAesopsGift} className="mainfloatImg" alt="ladderimg" />
-            <p>
-              <ul>
-                <li> Seasonal Gift Kits </li>
-                <li> Aesop favourites  </li>
-                <li> Small gestures </li>
-                <li> Fragran formulations </li>
-                <li> Treats for self </li>
-                <li> All gifts </li>
-              </ul>
-            </p>
-      
-        <h4> For hands and body </h4>
-        <h3> Daily cleansing </h3>
-          <p> Ensure impecable hygiene with our range of mild yet efficacious formulations </p>
-          <button> See all Body -> </button>
+          <img src={KevsAesopsGift} className="mainfloatImg"alt="ladderimg" />
+            
+            <p> Seasonal Gift Kits </p>
+            <p> Aesop favourites  </p>
+            <p> Small gestures </p>
+            <p> Fragrant formulations </p>
+            <p> Treats for self </p>
+            <p> All gifts </p>
+
+
+            <h4 id="handandbod"> For hands and body </h4>
+            <h3 id="dailycleansing"> Daily cleansing </h3>
+            <p> Ensure impecable hygiene with our range of mild yet efficacious formulations </p>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <button> See all Body -> </button>
       </div>
     );
   }
