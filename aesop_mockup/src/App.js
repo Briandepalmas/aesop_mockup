@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-
+import Page4 from "./components/Page4.js";
 
 class App extends React.Component {
   constructor(props) {
@@ -12,6 +12,9 @@ class App extends React.Component {
   render() {
     return (
       <div>
+    <Page4/> 
+
+
 
       </div>
     );
