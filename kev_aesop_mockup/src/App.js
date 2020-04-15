@@ -27,7 +27,7 @@ class App extends React.Component {
         <h4> For hands and body </h4>
         <h3> Daily cleansing </h3>
           <p> Ensure impecable hygiene with our range of mild yet efficacious formulations </p>
-          <button> See all Body </button>
+          <button> See all Body -> </button>
       </div>
     );
   }
