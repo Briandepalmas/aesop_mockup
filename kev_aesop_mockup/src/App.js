@@ -14,7 +14,7 @@ class App extends React.Component {
     return (
       <div id="leftpage" >
         <h4> An odyssey of gifts, for generous and inspired giving</h4>
-          <img src={KevsAesopsGift} id="mainfloatImg" alt="ladderimg" />
+          <img src={KevsAesopsGift} className="mainfloatImg" alt="ladderimg" />
             <p>
               <ul>
                 <li> Seasonal Gift Kits </li>
