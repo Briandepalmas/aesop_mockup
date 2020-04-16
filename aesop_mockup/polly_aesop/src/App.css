@@ -1,0 +1,21 @@
+body{
+    margin-top: 1in;
+    background-color: bisque;
+    font-family: 'Playfair Display', serif;
+    margin-right: 1in;
+    margin-left: 1in;
+    width: 90%;
+}
+
+#h4 {
+    font-size: 20px;
+
+}
+
+.fountainImg {
+    display: 90%;
+}
+
+#Spaces {
+    font-size: 10px;
+}
