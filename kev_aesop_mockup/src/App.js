@@ -13,6 +13,7 @@ class App extends React.Component {
   render() {
     return (
       <div id="leftpage" >
+        <br/>
         <h4> An odyssey of gifts, for generous and inspired giving</h4>
           <img src={KevsAesopsGift} className="mainfloatImg"alt="ladderimg" />
             
