@@ -1,9 +1,9 @@
 import React from 'react';
 import './App.css';
 import KevsAesopsGift from './component/images/KevsAesopsGift.png';
-import KevBodyCleansingSlab from './component/images/KevBodyCleansingSlab';
-// import kev_Redemption_BodyScrub from './component/kevs_odyssey/kev_Redemption_BodyScrub';
-// import kev_Reverence_Handwash from './component/kevs_odyssey/kev_Reverence_Handwash';
+import KevBodyCleansingSlab from './component/kevOdyssey/KevBodyCleansingSlab.png';
+import kev_Redemption_BodyScrub from './component/kevOdyssey/kev_Redemption_BodyScrub.png';
+import kev_Reverence_Handwash from './component/kevOdyssey/kev_Reverence_Handwash.png';
 
 
 class App extends React.Component {
@@ -19,9 +19,9 @@ class App extends React.Component {
         <br/>
         <h4> An odyssey of gifts, for generous and inspired giving</h4>
           <img src={KevsAesopsGift} className="mainfloatImg"alt="ladderimg" />
-          <img src={KevBodyCleansingSlab} className="cleanseSlabpic"alt="slabimg" />
-          {/* <img src={ kev_Redemption_BodyScrub } className="bodyscrubpic"alt="ladderimg" />
-          <img src={ kev_Reverence_Handwash } className="handwashpic"alt="ladderimg" /> */}
+          <img src={ KevBodyCleansingSlab } className="cleanseSlabpic"alt="slabimg" />
+          <img src={ kev_Redemption_BodyScrub } className="bodyscrubpic"alt="bodyscrub" />
+          <img src={ kev_Reverence_Handwash } className="handwashpic"alt="handwash" />
             
             <p> Seasonal Gift Kits </p>
             <p> Aesop favourites  </p>
