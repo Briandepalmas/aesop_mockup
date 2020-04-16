@@ -1,6 +1,9 @@
 import React from 'react';
 import './App.css';
 import KevsAesopsGift from './component/images/KevsAesopsGift.png';
+import kev_Body_Cleansing_Slab from './component/kevs_odyssey/kev_Body_Cleansing_Slab';
+import kev_Redemption_BodyScrub from './component/kevs_odyssey/kev_Redemption_BodyScrub';
+import kev_Reverence_Handwash from './component/kevs_odyssey/kev_Reverence_Handwash';
 
 
 class App extends React.Component {
