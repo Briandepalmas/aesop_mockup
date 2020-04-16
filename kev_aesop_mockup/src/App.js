@@ -19,6 +19,9 @@ class App extends React.Component {
         <br/>
         <h4> An odyssey of gifts, for generous and inspired giving</h4>
           <img src={KevsAesopsGift} className="mainfloatImg"alt="ladderimg" />
+          <img src={ kev_Body_Cleansing_Slab } className="cleanseSlabpic"alt="ladderimg" />
+          <img src={ kev_Redemption_BodyScrub } className="bodyscrubpic"alt="ladderimg" />
+          <img src={ kev_Reverence_Handwash } className="handwashpic"alt="ladderimg" />
             
             <p> Seasonal Gift Kits </p>
             <p> Aesop favourites  </p>
