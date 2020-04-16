@@ -1,6 +1,6 @@
 body{
   margin-top: 1in;
-  background-color: bisque;
+  background-color: rgba(255, 228, 196, 0.507);
   font-family: 'Playfair Display', serif;
   /* font-family: 'Abhaya Libre', sans-serif; */
 }
@@ -17,17 +17,20 @@ button{
   margin-top: 2in;
 }
 
-/* #cleanseSlabpic{
-  height: 30px;
+.cleanseSlabpic{
+  height: 2.2in;
+  width: 2.5in;
 }
 
-#bodyscrubpic{
-
+.bodyscrubpic{
+  height: 3.5in;
+  width: 2.7in;
 }
 
-#handwashpic{
-
-} */
+.handwashpic{
+  height: 3.5in;
+  width: 2.7in;
+}
 
 .mainfloatImg{
   float: right;

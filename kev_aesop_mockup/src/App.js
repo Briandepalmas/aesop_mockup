@@ -19,9 +19,17 @@ class App extends React.Component {
         <br/>
         <h4> An odyssey of gifts, for generous and inspired giving</h4>
           <img src={KevsAesopsGift} className="mainfloatImg"alt="ladderimg" />
-          <img src={ KevBodyCleansingSlab } className="cleanseSlabpic"alt="slabimg" />
-          <img src={ kev_Redemption_BodyScrub } className="bodyscrubpic"alt="bodyscrub" />
           <img src={ kev_Reverence_Handwash } className="handwashpic"alt="handwash" />
+            <h6> Reverence Aromatique Hand Wash </h6>
+            <p id="txtUnderPic"> Woody, earthy, smoky aroma </p>
+
+          <img src={ kev_Redemption_BodyScrub } className="bodyscrubpic"alt="bodyscrub" />
+            <h6> Redemption Body Scrub </h6>
+            <p id="txtUnderPic" > Bamboo Stem and Pumice, to polish skin </p>
+          
+          <img src={ KevBodyCleansingSlab } className="cleanseSlabpic"alt="slabimg" />
+            <h6> Body Cleansing Slab </h6>
+            <p id="txtUnderPic" > Enriched with Bergamot Rind, Tahitan </p>  
             
             <p> Seasonal Gift Kits </p>
             <p> Aesop favourites  </p>
