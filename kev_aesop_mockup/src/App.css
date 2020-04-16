@@ -11,6 +11,7 @@ button{
   color: rgba(0, 0, 0, 0.836);
   font-size: small;
   height: .5in;
+  /* color: aqua; */
 }
 
 #handandbod{
@@ -30,6 +31,19 @@ button{
 .handwashpic{
   height: 3.5in;
   width: 2.7in;
+}
+
+#txtUnderPic{
+  font-size: 9px;
+}
+
+
+.threesoappicswords{
+  margin-top: 35px;
+  float: right;
+  margin-left: 3in;
+  display: grid;
+  grid-template-columns: auto auto auto;
 }
 
 .mainfloatImg{

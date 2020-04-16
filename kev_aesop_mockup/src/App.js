@@ -17,19 +17,8 @@ class App extends React.Component {
     return (
       <div id="leftpage" >
         <br/>
-        <h4> An odyssey of gifts, for generous and inspired giving</h4>
+        <h3> An odyssey of gifts, for generous and inspired giving</h3>
           <img src={KevsAesopsGift} className="mainfloatImg"alt="ladderimg" />
-          <img src={ kev_Reverence_Handwash } className="handwashpic"alt="handwash" />
-            <h6> Reverence Aromatique Hand Wash </h6>
-            <p id="txtUnderPic"> Woody, earthy, smoky aroma </p>
-
-          <img src={ kev_Redemption_BodyScrub } className="bodyscrubpic"alt="bodyscrub" />
-            <h6> Redemption Body Scrub </h6>
-            <p id="txtUnderPic" > Bamboo Stem and Pumice, to polish skin </p>
-          
-          <img src={ KevBodyCleansingSlab } className="cleanseSlabpic"alt="slabimg" />
-            <h6> Body Cleansing Slab </h6>
-            <p id="txtUnderPic" > Enriched with Bergamot Rind, Tahitan </p>  
             
             <p> Seasonal Gift Kits </p>
             <p> Aesop favourites  </p>
@@ -41,16 +30,23 @@ class App extends React.Component {
 
             <h4 id="handandbod"> For hands and body </h4>
             <h3 id="dailycleansing"> Daily cleansing </h3>
-            <p> Ensure impecable hygiene with our range of mild yet efficacious formulations </p>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <button> See all Body -> </button>
+            <p> Ensure impecable hygiene with our </p>
+            <p> range of mild yet efficacious formulations </p>
+
+
+            <div className="threesoappicswords" >  
+              <img src={ kev_Reverence_Handwash } className="handwashpic"alt="handwash" />
+              <img src={ kev_Redemption_BodyScrub } className="bodyscrubpic"alt="bodyscrub" />
+              <img src={ KevBodyCleansingSlab } className="cleanseSlabpic"alt="slabimg" />  
+              <h6 id="txtUnderPic" > Reverence Aromatique Hand Wash </h6>
+              <h6 id="txtUnderPic" > Redemption Body Scrub </h6>
+              <h6 id="txtUnderPic" > Body Cleansing Slab </h6>
+              <p id="txtUnderPic"> Woody, earthy, smoky aroma </p>
+              <p id="txtUnderPic" > Bamboo Stem and Pumice, to polish skin </p>
+              <p id="txtUnderPic" > Enriched with Bergamot Rind, Tahitan </p>
+            </div>
+
+            <button> See All Body -> </button>
       </div>
     );
   }
