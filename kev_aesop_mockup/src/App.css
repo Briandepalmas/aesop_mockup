@@ -1,36 +1,55 @@
 body{
-  margin-top: 1in;
-  background-color: bisque;
+  margin-top: .4in;
+  background-color: rgba(255, 228, 196, 0.507);
   font-family: 'Playfair Display', serif;
   /* font-family: 'Abhaya Libre', sans-serif; */
 }
 
-button{
-  background-color: rgba(255, 228, 196, 0.461);
-  border-color: bisque;
-  color: rgba(0, 0, 0, 0.836);
-  font-size: small;
-  height: .5in;
-}
 
 #handandbod{
   margin-top: 2in;
 }
 
-/* #cleanseSlabpic{
-  height: 30px;
+.cleanseSlabpic{
+  height: 2.2in;
+  width: 2.5in;
 }
 
-#bodyscrubpic{
-
+.bodyscrubpic{
+  height: 3.5in;
+  width: 2.7in;
 }
 
-#handwashpic{
+.handwashpic{
+  height: 3.5in;
+  width: 2.7in;
+}
 
-} */
+#txtUnderPic{
+  font-size: 9px;
+}
+
+
+.threesoappicswords{
+  margin-top: 90px;
+  float: right;
+  margin-left: 3in;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
 
 .mainfloatImg{
   float: right;
-  height: 4in;
-  width: 5in;
+  height: 9in;
+  width: 15in;
+}
+
+button{
+  margin-top: 1in;
+  background-color: rgba(255, 228, 196, 0.507);
+  background-color: rgba(255, 228, 196, 0.507);
+  color: rgba(0, 0, 0, 0.836);
+  font-size: small;
+  height: .5in;
+  /* color: aqua; */
 }
