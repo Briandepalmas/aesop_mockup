@@ -1,3 +1,14 @@
+                REFERENCE
+
+1. For help with grid display
+https://www.w3schools.com/cssref/tryit.asp?filename=trycss_grid-row
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

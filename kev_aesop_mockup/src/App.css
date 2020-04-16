@@ -1,18 +1,10 @@
 body{
-  margin-top: 1in;
+  margin-top: .4in;
   background-color: rgba(255, 228, 196, 0.507);
   font-family: 'Playfair Display', serif;
   /* font-family: 'Abhaya Libre', sans-serif; */
 }
 
-button{
-  background-color: rgba(255, 228, 196, 0.461);
-  border-color: bisque;
-  color: rgba(0, 0, 0, 0.836);
-  font-size: small;
-  height: .5in;
-  /* color: aqua; */
-}
 
 #handandbod{
   margin-top: 2in;
@@ -39,7 +31,7 @@ button{
 
 
 .threesoappicswords{
-  margin-top: 35px;
+  margin-top: 90px;
   float: right;
   margin-left: 3in;
   display: grid;
@@ -48,6 +40,16 @@ button{
 
 .mainfloatImg{
   float: right;
-  height: 4in;
-  width: 5in;
+  height: 9in;
+  width: 15in;
+}
+
+button{
+  margin-top: 1in;
+  background-color: rgba(255, 228, 196, 0.507);
+  background-color: rgba(255, 228, 196, 0.507);
+  color: rgba(0, 0, 0, 0.836);
+  font-size: small;
+  height: .5in;
+  /* color: aqua; */
 }

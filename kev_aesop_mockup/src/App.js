@@ -26,8 +26,14 @@ class App extends React.Component {
             <p> Fragrant formulations </p>
             <p> Treats for self </p>
             <p> All gifts </p>
-
-
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
             <h4 id="handandbod"> For hands and body </h4>
             <h3 id="dailycleansing"> Daily cleansing </h3>
             <p> Ensure impecable hygiene with our </p>
