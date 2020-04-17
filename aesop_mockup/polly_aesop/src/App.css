@@ -8,8 +8,8 @@ body{
     width: 98%;
 }
 
-#h4 {
-    font-size: 20px;
+#spaces {
+    font-size: 50px;
 
 }
 
@@ -19,11 +19,18 @@ body{
     width: 98%;
 }
 
-spaces {
-    font-size: 10px;
+
+
+#nearby {
+    display: flex;
+    justify-content: right;
 }
 
-stores {
-    align-content: right;
+zip {
+    align-self: center;
+}
+
+h6 {
+    font-size: 10px;
 }
 
