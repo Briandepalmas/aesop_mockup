@@ -1,0 +1,36 @@
+body{
+    margin-top: 1in;
+    background-color: bisque;
+    font-family: 'Playfair Display', serif;
+    margin-right: 1in;
+    margin-left: 1in;
+    margin-right: 1in;
+    width: 98%;
+}
+
+#spaces {
+    font-size: 50px;
+
+}
+
+.fountainImg {
+    display: 90%;
+    padding: 5px;
+    width: 98%;
+}
+
+
+
+#nearby {
+    display: flex;
+    justify-content: right;
+}
+
+zip {
+    align-self: center;
+}
+
+h6 {
+    font-size: 10px;
+}
+
